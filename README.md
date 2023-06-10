@@ -1,3 +1,5 @@
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fptrsec%2Fredaxscript.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fptrsec%2Fredaxscript?ref=badge_shield)
+
 Redaxscript
 ===========
 
@@ -57,3 +59,6 @@ Related links
 * [Support](http://redaxscript.com/support)
 * [Documentation](http://redaxscript.com/develop/documentation)
 * [Community](http://redaxscript.com/community)
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fptrsec%2Fredaxscript.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fptrsec%2Fredaxscript?ref=badge_large)
